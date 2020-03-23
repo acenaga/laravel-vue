@@ -6,7 +6,7 @@
                     <div class="card-header">Crud elaborado con vue y laravel</div>
 
                     <div class="card-body">
-                        Sistema de notas, facil y sencillo de usar elaborado con Lravel y Vue.js
+                        Sistema de notas, facil y sencillo de usar elaborado con Laravel y Vue.js
                     </div>
                 </div>
             </div>
